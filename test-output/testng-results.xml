@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="5210" started-at="2022-02-19T01:22:52 CST" finished-at="2022-02-19T01:22:57 CST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="5210" started-at="2022-02-19T01:22:52 CST" finished-at="2022-02-19T01:22:57 CST">
+      <class name="CreateUser">
+        <test-method status="PASS" signature="testCreateUser()[pri:0, instance:CreateUser@ea1a8d5]" name="testCreateUser" duration-ms="5178" started-at="2022-02-19T01:22:52 CST" finished-at="2022-02-19T01:22:57 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCreateUser -->
+      </class> <!-- CreateUser -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
